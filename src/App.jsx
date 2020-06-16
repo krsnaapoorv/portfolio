@@ -18,7 +18,7 @@ function App() {
       </div>
       <div className=" row justify-content-center">
         <i className="fas h2 mr-2 fa-map-marker-alt" style={{color:"rgb(107, 168, 199)"}}></i>
-       <h3 className=" ml-3font-weight-bold text-muted">Patna,India</h3>
+       <h3 className=" ml-3font-weight-bold text-muted">Banglore,India</h3>
       </div>
       <div className=" row justify-content-center mt-2">
         <i className=" h4 mr-2 fas fa-phone-alt" style={{color:"rgb(107, 168, 199)"}}></i>
@@ -29,7 +29,7 @@ function App() {
         <a href="mailto:apoorva15997@gmail.com" className=" ml-3font-weight-bold text-muted"><h4>apoorva15997@gmail.com</h4></a>
       </div>
       <div className=" row justify-content-center mt-4">
-        <a href="https://www.linkedin.com/in/apoorva-krishna-078a5112b/" target="blank"><i class="fab h1 fa-linkedin"></i></a>
+        <a href="https://www.linkedin.com/in/krsnaapoorv/" target="blank"><i class="fab h1 fa-linkedin"></i></a>
         <a className="ml-3 text-dark" href="https://github.com/krsnaapoorv" target="blank"><i class="fab h1 fa-github"></i></a>
         <a className="ml-3" href="https://twitter.com/Krsna_apoorv" target="blank"><i class="fab h1 fa-twitter"></i></a>
         <a className="ml-3" style={{color:"green"}} href="https://www.hackerrank.com/krsnaapoorv" target="blank"><i class="fab h1 fa-hackerrank"></i></a>
@@ -100,22 +100,18 @@ function App() {
         <div className="col-md-3 mt-4">
             <img  src="/react.svg" style={{width: "111px"}} />
             <h5 className="mt-2 ml-4 mt-4 text-muted font-weight-bold">REACT APP</h5>
-            <p>When it comes to react apps<br></br>I have the strength of Atlas</p>
         </div>
         <div className="col-md-3 mt-3">
             <img  src="/database.png" style={{width: "111px"}} />
             <h5 className="mt-2 ml-4 mt-4 text-muted font-weight-bold">BACKEND</h5>
-            <p>I am the one who runs<br></br>the show</p>
         </div>
         <div className="col-md-3 mt-3">
             <img  src="/frontend.png" style={{width: "111px"}} />
             <h5 className="mt-2 ml-4 mt-4 text-muted font-weight-bold">FRONTEND</h5>
-            <p>Now just that I can<br></br>even host the show</p>
         </div>
         <div className="col-md-3 mt-3">
             <img  src="/datastructure.png" style={{width: "111px"}} />
             <h5 className="mt-2 ml-4 mt-4 text-muted font-weight-bold">DATA STRUCTURES</h5>
-            <p>Putting the right blocks in the<br></br>right place is just my thing</p>
         </div>
       </div>
       <div>
@@ -140,34 +136,10 @@ function App() {
                         <i class="fab fa-external-link-square-alt"></i><strong>Demo Link</strong>
                       </a>
                     </div>
-                    <div className="row justify-content-center pb-3 float-left">
+                    <div className="row justify-content-center pb-4 float-left">
                         <img style={{width: "40px"}} src="/html-5.svg" alt="" />
                         <img style={{width: "40px"}} className="ml-2" src="/css-3.svg" alt="" />
                         <img style={{width: "40px"}} className="ml-2" src="/javascript.svg" alt="" />
-                    </div>
-                  </div>
-              </div>
-              <div className="col-lg-4 col-md-6 col-sm-12 mb-1">
-                  <div className="card  shadow-lg pb-4">
-                    <div className="card-body ">
-                      <img className="img-fluid mb-3" src="/currency.png" />
-                      <hr></hr>
-                      <h2 class="card-title font-weight-bold">Currency Converter</h2>
-                      <h5 class="card-text">
-                        It is a Currency Converter where you can check the current value of your currency with 160 different currencies.
-                      </h5>
-                      <a class="card-link text-muted mt-5" href="https://github.com/krsnaapoorv/projects/tree/master/masai-sprint-3" target="blank">
-                        <i class="fab fa-github"></i><strong>Github</strong>
-                      </a>
-                      <a class="card-link text-muted mt-5" href="https://convert-currency-krsna.netlify.com/" target="blank">
-                        <i class="fab fa-external-link-square-alt"></i><strong>Demo Link</strong>
-                      </a>
-                    </div>
-                    <div className="row justify-content-center pb-4 float-left">
-                        <img style={{width: "40px"}} src="/html-5.svg" alt="" />
-                        <img style={{width: "40px"}} className="ml-2" src="/bootstrap.svg" alt="" />
-                        <img style={{width: "40px"}} className="ml-2" src="/javascript.svg" alt="" />
-                        <img style={{width: "50px"}} className="ml-2" src="/jquery.svg" alt="" />
                     </div>
                   </div>
               </div>
@@ -180,41 +152,17 @@ function App() {
                       <h5 class="card-text">
                         Here You can find different git users as well as the repositories.You can also check the scores of each git repository.
                       </h5>
-                      <a class="card-link text-muted mt-5" href="https://finder-git.netlify.com/" target="blank">
+                      <a class="card-link text-muted mt-5" href="https://github.com/masai-school/cohort_3/tree/master/submissions/sm_103_apoorva/week_09/day_2/session_1 " target="blank">
                         <i class="fab fa-github"></i><strong>Github</strong>
                       </a>
-                      <a class="card-link text-muted mt-5" href="https://github.com/masai-school/cohort_3/tree/master/submissions/sm_103_apoorva/week_09/day_2/session_1" target="blank">
+                      <a class="card-link text-muted mt-5" href="https://finder-git.netlify.app/" target="blank">
                         <i class="fab fa-external-link-square-alt"></i><strong>Demo Link</strong>
                       </a>
                     </div>
-                    <div className="row justify-content-center pb-4 float-left">
+                    <div className="row justify-content-center pb-4 mb-1 float-left">
                         <img style={{width: "40px"}} src="/html-5.svg" alt="" />
                         <img style={{width: "40px"}} className="ml-2" src="/bootstrap.svg" alt="" />
                         <img style={{width: "40px"}} className="ml-2" src="/react.svg" alt="" />
-                    </div>
-                  </div>
-              </div>
-              <div className="col-lg-4 col-md-6 col-sm-12 mb-1">
-                  <div className="card  shadow-lg pb-3">
-                    <div className="card-body ">
-                      <img className="img-fluid mb-3" src="/todo.png" />
-                      <hr></hr>
-                      <h2 class="card-title font-weight-bold">Todo App</h2>
-                      <h5 class="card-text">
-                        A simple todo app where you can create, add , update , delete todo.
-                      </h5>
-                      <a class="card-link text-muted mt-5" href="https://github.com/masai-school/cohort_3/tree/master/submissions/sm_103_apoorva/week_10/day_2/session_1" target="blank">
-                        <i class="fab fa-github"></i><strong>Github</strong>
-                      </a>
-                      <a class="card-link text-muted mt-5" href="https://todomaterial.netlify.com/" target="blank">
-                        <i class="fab fa-external-link-square-alt"></i><strong>Demo Link</strong>
-                      </a>
-                    </div>
-                    <div className="row justify-content-center pb-4 mt-5 mt-4 float-left">
-                        <img style={{width: "40px"}} src="/html-5.svg" alt="" />
-                        <img style={{width: "40px"}} className="ml-2" src="/bootstrap.svg" alt="" />
-                        <img style={{width: "40px"}} className="ml-2" src="/react.svg" alt="" />
-                        <img style={{width: "50px"}} className="ml-2" src="/redux.svg" alt="" />
                     </div>
                   </div>
               </div>
@@ -234,7 +182,7 @@ function App() {
                         <i class="fab fa-external-link-square-alt"></i><strong>Demo Link</strong>
                       </a>
                     </div>
-                    <div className="row justify-content-center pb-3 mt-5 mb-4 float-left">
+                    <div className="row justify-content-center pb-4 mt-5 mb-5 float-left">
                         <img style={{width: "40px"}} src="/html-5.svg" alt="" />
                         <img style={{width: "40px"}} className="ml-2" src="/bootstrap.svg" alt="" />
                         <img style={{width: "40px"}} className="ml-2" src="/react.svg" alt="" />
@@ -259,14 +207,14 @@ function App() {
                         <i class="fab fa-external-link-square-alt"></i><strong>Demo Link</strong>
                       </a>
                     </div>
-                    <div className="row justify-content-center pb-3 float-left">
+                    <div className="row justify-content-center pb-3 mb-5 mt-1 float-left">
                         <img style={{width: "40px"}} src="/html-5.svg" alt="" />
                         <img style={{width: "40px"}} className="ml-2" src="/bootstrap.svg" alt="" />
                         <img style={{width: "40px"}} className="ml-2" src="/react.svg" alt="" />
                     </div>
                   </div>
               </div>
-              <div className="col-lg-4 col-md-6 col-sm-12 mb-1 mt-5">
+              <div className="col-lg-4 col-md-6 col-sm-12 mb-1">
                   <div className="card  shadow-lg pb-3">
                     <div className="card-body ">
                       <img className="img-fluid mb-3" src="/teachers.png" />
@@ -275,11 +223,11 @@ function App() {
                       <h5 class="card-text">
                         Here, you can manage teachers data based on of your institution based on the classes,subject and sections they are teching. 
                       </h5>
-                      <a class="card-link text-muted mt-5" href="https://github.com/masai-school/cohort_3/tree/master/submissions/sm_103_apoorva/week_23/day_5/evaluation" target="blank">
+                      <a class="card-link text-muted mt-3" href="https://github.com/masai-school/cohort_3/tree/master/submissions/sm_103_apoorva/week_23/day_5/evaluation" target="blank">
                         <i class="fab fa-github"></i><strong>Github</strong>
                       </a>
                     </div>
-                    <div className="row justify-content-center pb-5  mt-5  float-left">
+                    <div className="row justify-content-center mb-5 mt-1 float-left">
                         <img style={{width: "40px"}} src="/html-5.svg" alt="" />
                         <img style={{width: "40px"}} className="ml-2" src="/bootstrap.svg" alt="" />
                         <img style={{width: "40px"}} className="ml-2" src="/react.svg" alt="" />
@@ -288,7 +236,7 @@ function App() {
                     </div>
                   </div>
               </div>
-              <div className="col-lg-4 col-md-6 col-sm-12 mb-1 mt-5">
+              <div className="col-lg-4 col-md-6 col-sm-12">
                   <div className="card  shadow-lg pb-1">
                     <div className="card-body ">
                       <img className="img-fluid mb-3" src="/blog_app.png" />
@@ -301,7 +249,7 @@ function App() {
                         <i class="fab fa-github"></i><strong>Github</strong>
                       </a>
                     </div>
-                    <div className="row justify-content-center mt-5 float-left">
+                    <div className="row justify-content-center float-left">
                         <img style={{width: "40px"}} src="/html-5.svg" alt="" />
                         <img style={{width: "40px"}} className="ml-2" src="/bootstrap.svg" alt="" />
                         <img style={{width: "40px"}} className="ml-2" src="/react.svg" alt="" />
@@ -311,6 +259,52 @@ function App() {
                     <br></br>
                   </div>
               </div>
+              <div className="col-lg-4 col-md-6 col-sm-12 mb-1 mt-5">
+                  <div className="card  shadow-lg pb-1">
+                    <div className="card-body ">
+                      <img className="img-fluid mb-3" src="/ticketing.png" />
+                      <hr></hr>
+                      <h2 class="card-title font-weight-bold">Watcher's</h2>
+                      <h5 class="card-text">
+                        An Application where you can see movie's and available theatres. You can book ticket based on available seats in a selected screen in that theatre.
+                      </h5>
+                      <a class="card-link text-muted mt-5" href="https://github.com/krsnaapoorv/ticketing" target="blank">
+                        <i class="fab fa-github"></i><strong>Github</strong>
+                      </a>
+                    </div>
+                    <div className="row justify-content-center mt-5 pb-3 float-left">
+                        <img style={{width: "40px"}} src="/html-5.svg" alt="" />
+                        <img style={{width: "40px"}} className="ml-2" src="/bootstrap.svg" alt="" />
+                        <img style={{width: "40px"}} className="ml-2" src="/react.svg" alt="" />
+                        <img style={{width: "50px"}} className="ml-2" src="/redux.svg" alt="" />
+                        <img style={{width: "50px"}} className="ml-2" src="/mysql.svg" alt="" />
+                    </div>
+                    <br></br>
+                  </div>
+                </div>
+                <div className="col-lg-4 col-md-6 col-sm-12 mb-1 mt-5">
+                  <div className="card  shadow-lg pb-1">
+                    <div className="card-body ">
+                      <img className="img-fluid mb-3" src="/movie.png" />
+                      <hr></hr>
+                      <h2 class="card-title font-weight-bold">Image Uploader</h2>
+                      <h5 class="card-text">
+                        In this application if you are a contributor then you can upload image and see download stat of your uploaded image.A normal user can see the images and download it.
+                      </h5>
+                      <a class="card-link text-muted mt-5" href="https://github.com/krsnaapoorv/pumpkin" target="blank">
+                        <i class="fab fa-github"></i><strong>Github</strong>
+                      </a>
+                    </div>
+                    <div className="row justify-content-center mt-4 pb-3 float-left">
+                        <img style={{width: "40px"}} src="/html-5.svg" alt="" />
+                        <img style={{width: "40px"}} className="ml-2" src="/bootstrap.svg" alt="" />
+                        <img style={{width: "40px"}} className="ml-2" src="/react.svg" alt="" />
+                        <img style={{width: "50px"}} className="ml-2" src="/redux.svg" alt="" />
+                        <img style={{width: "50px"}} className="ml-2" src="/mysql.svg" alt="" />
+                    </div>
+                    <br></br>
+                  </div>
+                </div>
             </div>
         </div>
       </div>
